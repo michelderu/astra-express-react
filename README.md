@@ -3,6 +3,10 @@ This repository shows an end-to-end way to build a React front-end with an Expre
 
 ![architecture diagram](images/astra-express-react.png)
 
+For learning purposes you can start from scratch and just follow the commands. In that case don't clone this repo :).
+
+Thanks to the nice guide by [João Henrique](https://www.freecodecamp.org/news/create-a-react-frontend-a-node-express-backend-and-connect-them-together-c5798926047c/)!
+
 ## 1️⃣ Set up the middle layer
 ### Generate the basic Express setup
 ```sh
