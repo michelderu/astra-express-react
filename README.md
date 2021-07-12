@@ -1,11 +1,11 @@
 # Getting started with DataStax Astra, Express and React (for dummies)
-As I didn't create a full stack application before (mostly focussed on backe-end) I decided to figure it out and share my experience in this guide. Hence its *for dummies* name 🤩.
+As I didn't create a full stack application before (mostly focussed on backe-end) I decided to figure it out and share my experience in this guide. Hence its *for dummies* name 😅.
 
 This repository shows an end-to-end way to build a React front-end with an Express middle layer communicating to DataStax Astra.
 
 ![architecture diagram](images/astra-express-react.png)
 
-For learning purposes you can start from scratch and just follow the commands. In that case don't clone this repo :).
+For learning purposes you can start from scratch and just follow the commands. In that case don't clone this repo 😀.
 
 Thanks to the nice guide by [João Henrique](https://www.freecodecamp.org/news/create-a-react-frontend-a-node-express-backend-and-connect-them-together-c5798926047c/)!
 
