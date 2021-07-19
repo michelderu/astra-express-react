@@ -296,7 +296,7 @@ class Todos extends Component{
 export default Todos;
 ```
 Now we have to invoke it from the front-end. In `src/index.js` change the following:
-1. On line 4 change App into Todo as: `import App from './App';`
+1. On line 4 change App into Todo as: `import Todos from './Todos';`
 2. On line 9 call the Todos rendering as: `    <Todos />`
 
 And we also want some eye candy which means we'll include [Bootstrap](https://getbootstrap.com/). To enable the stylesheet, open `public/index.html` and add `<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">` right before the closing `</head>` tag.
